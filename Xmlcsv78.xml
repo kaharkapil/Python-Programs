@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<college>
+<row>
+ <name>ram</name>
+ <phno>0231</phno>
+ <address>bhopal</address>
+</row>
+<row>
+ <name>shyam</name>
+ <phno>5645</phno>
+ <address>indore</address>
+</row>
+<row>
+ <name>rahul</name>
+ <phno>7898</phno>
+ <address>sagar</address>
+</row>
+<row>
+ <name>kahar</name>
+ <phno>0869</phno>
+ <address>indore</address>
+</row>
+</college>
